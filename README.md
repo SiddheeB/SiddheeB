@@ -1,16 +1,23 @@
-# Hi there, I'm Siddhee 👋  
+<h1 align="center">Hi there 👋, I'm Siddhee</h1>
+<p align="center">
+  <b>A passionate Frontend Developer 🚀</b>
+</p>
 
 Welcome to my GitHub profile!!!
 
-I'm a **Frontend Developer** passionate about building responsive and user-friendly web applications. I enjoy transforming ideas into reality through clean code and intuitive designs.
+## 🌟 About Me  
 
-## 🛠 What I Do  
-- I **code** to bring pixels to life.  
-- I **design** to make user experiences seamless.  
-- I **solve problems** because puzzles are fun.
+- 🔭 I’m a Frontend Developer.  
+- 🌱 Currently focusing on improving my skills in **modern web development**.  
+- 👯 Open to collaborating on **frontend projects** and learning together.  
+- ⚡ Fun fact: I love solving puzzles, watching tech videos, and experimenting with code.  
+
+---
 
 ## 🧗‍♀️ My Philosophy  
 I believe in continuous learning, embracing challenges, and celebrating small wins along the way. Every line of code is a step closer to innovation.
+
+---
 
 ## 🛠 Languages and Tools
 <p align="left">
@@ -21,6 +28,19 @@ I believe in continuous learning, embracing challenges, and celebrating small wi
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="40" height="40"/>  
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="Visual Studio Code" width="40" height="40"/>
 </p>
+
+---
+
+## 📖 Quote of the Day  
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Quote of the Day" />
+</p>
+
+---
+
+<p align="center">Thanks for stopping by! 😊</p>
+
 
 
 <!--
